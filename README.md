@@ -1,6 +1,6 @@
-# 0x16. C - Simple Shell
- **By Spencer Cheng, featuring Julien Barbier**
- Project to be done in teams of 2 people (your team: Godswill Kalu, Vatalis Ibeh)
+# 0x16. C - Simple shell 
+**Godfrey Elolen and Vincent Uyanwanne**
+ Project to be done in teams of 2 people (your team : Godfrey Elolen, Vincent Uyanwanne)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -113,4 +113,4 @@ git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
-  ```
+ 
